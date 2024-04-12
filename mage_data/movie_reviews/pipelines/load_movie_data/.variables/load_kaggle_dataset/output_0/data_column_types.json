@@ -1,0 +1,1 @@
+{"name": "str", "year": "int64", "movie_rated": "str", "run_length": "str", "genres": "str", "release_date": "str", "rating": "float64", "num_raters": "int64", "num_reviews": "int64", "review_url": "str"}
